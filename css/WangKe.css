@@ -1,0 +1,147 @@
+img:hover {
+	transform: scale(1.06);
+}.background1 {
+	width: 100%;
+	height: 584px;
+	background: url(../img/WangKe/background1.png)no-repeat center;
+	padding-top: 100px;
+	box-sizing: border-box;
+}
+
+.background1 p {
+	color: white;
+	font-size: 26px;
+	text-align: center;
+	font-weight: lighter;
+}
+
+#ren {
+	height: 400px;
+	background-color: rgba(255, 255, 255, 0.7);
+	margin-top: -300px;
+	box-sizing: border-box;
+	padding-left: 40px;
+}
+
+.wangke {
+	display: inline-block;
+	position: relative;
+	left: 100px;
+	bottom: 100px;
+	font-size: 20px;
+	line-height: 40px;
+}
+
+.zxzx {
+	width: 100px;
+	height: 40px;
+	border-radius: 15px;
+	border: #19BC64 1px solid;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	top: 80px;
+	margin-right: 20px;
+}
+
+.zxzx a {
+	color: #19BC64;
+}
+
+.sjg {
+	width: 400px;
+	height: 200px;
+	line-height: 30px;
+	border: #666666 1px solid;
+	border-radius: 30px;
+	position: relative;
+	left: 700px;
+	bottom: 220px;
+	font-size: 20px;
+	box-sizing: border-box;
+	padding: 30px;
+	color: #666666;
+}
+
+.shejiguan {
+	width: 94px;
+	border-radius: 20px;
+	position: relative;
+	left: 130px;
+	bottom: 170px;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.talk {
+	width: 200px;
+	height: 580px;
+	background-color: #7D7D7D;
+	position: relative;
+	bottom: 1162px;
+	left: 945px;
+	padding-top: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	box-sizing: border-box;
+	font-size: 24px;
+}
+
+.talk span {
+	font-size: 12px;
+	color: #3F3F3F;
+	display: block;
+	line-height: 24px;
+}
+
+#res p {
+	font-size: 30px;
+	text-align: center;
+	font-weight: lighter;
+}
+
+.yuyue {
+	width: 300px;
+	height: 100px;
+	border-top: 1px #666666 solid;
+	display: inline-block;
+	margin-top: 100px;
+}
+
+.round {
+	width: 100px;
+	height: 100px;
+	border-radius: 500px;
+	border: 1px solid #666666;
+	margin: -50px auto;
+	background-color: white;
+	box-sizing: border-box;
+	padding-top: 12px;
+	padding-left: 12px;
+	overflow: hidden;
+}
+
+.yuyue p {
+	text-align: center;
+	font-size: 12px;
+	margin-top: 60px;
+}
+
+.yijian {
+	width: 300px;
+	height: 50px;
+	background-color: #14934e;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 50px;
+	margin-top: 40px;
+	border-radius: 40px;
+	margin-bottom: 100px;
+}
+
+.yijian a {
+	color: white;
+	font-size: 26px;
+}
+img:hover {
+	transform: scale(1.06);
+}

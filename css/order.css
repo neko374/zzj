@@ -1,0 +1,134 @@
+.background1 {
+	width: 100%;
+	height: 631px;
+	background: url(../img/order/background1.png)no-repeat center;
+}
+
+.big {
+	text-align: center;
+	font-size: 36px;
+}
+
+.small {
+	text-align: center;
+	font-size: 24px;
+}
+
+.smaller {
+	text-align: center;
+	font-size: 16px;
+}
+
+.people {
+	height: 500px;
+	width: 370px;
+	margin-right: 45px;
+	float: left;
+	background-size: contain;
+}
+
+.ren {
+	width: 230px;
+	height: 230px;
+	margin: 0 auto;
+	margin-top: 220px;
+	margin-bottom: 20px;
+	background: #000000 url(../img/order/p1.png)no-repeat center bottom;
+	border-radius: 500px;
+	overflow: hidden;
+}
+
+#ckgd {
+	width: 100px;
+	height: 40px;
+	line-height: 40px;
+	border: #000000 2px solid;
+	border-radius: 20px;
+	margin: 0 auto;
+	position: relative;
+	top: 100px;
+	clear: both;
+	text-align: center;
+}
+
+#ckgd a {
+	color: #000000;
+	font-size: 20px;
+	text-align: center;
+}
+
+.background2 {
+	width: 100%;
+	height: 626px;
+	background: url(../img/order/background2.png)no-repeat center;
+	padding-top: 100px;
+	box-sizing: border-box;
+}
+
+.background2 img {
+	display: inline-block;
+}
+
+.background2 .sjdk {
+	width: 800px;
+	color: white;
+	font-size: 16px;
+	line-height: 30px;
+	position: relative;
+	bottom: 420px;
+	left: 400px;
+}
+
+.background2 .small {
+	text-align: left;
+	line-height: 60px;
+}
+
+.fuwu {
+	height: 398px;
+	width: 398px;
+	float: left;
+}
+
+.fuwu p {
+	font-size: 26px;
+	color: white;
+}
+
+.fuwu input {
+	width: 341px;
+	height: 47px;
+	margin-left: 20px;
+	text-align: left;
+}
+
+#yuyue {
+	width: 341px;
+	height: 50px;
+	bottom: 0;
+	background-color: #f66c01;
+	border-radius: 40px;
+	text-align: center;
+	margin-left: 20px;
+	line-height: 47px;
+	margin-top: 10px;
+}
+
+#yuyue a {
+	color: white;
+	font-size: 20px;
+}
+
+.fuwu span {
+	line-height: 30px;
+	font-size: 20px;
+	color: black;
+}
+
+.picture {
+	width: 355px;
+	height: 200px;
+}
+img:hover {
+	transform: scale(1.06);
+}
